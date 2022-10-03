@@ -2,6 +2,8 @@
 
 ### Project description
 
+Light & Dark mode switch button. When refreshing the page, the mode gets saved and stored in the browser memory. 
+
 Light mode
 
 ![LightMode](https://user-images.githubusercontent.com/89424060/193489791-b11e82bf-e798-459b-a110-c3e9f71ea46c.png)
