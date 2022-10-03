@@ -8,7 +8,7 @@ Light mode
 
 Dark mode
 
-![DarkMode](https://user-images.githubusercontent.com/89424060/193489655-6a8ea9e3-d1f9-4f53-aa86-8c9397ec6c25.png)
+![DarkMode](https://user-images.githubusercontent.com/89424060/193490311-2983c2ce-c32b-41a9-beda-8c7f2b9c0b13.png)
 
 ### Tools used 
 
