@@ -48,12 +48,12 @@ body {
 
     }
     100%{
-        transform: translateX(40px);
+        transform: translateX(44px);
     }
 }
 @keyframes toggleOff {
     0%{
-        transfrom: translateX(40px);
+        transfrom: translateX(44px);
 
     }
     100%{
